@@ -35,3 +35,19 @@ Knife Fight is played in a series of rounds, during which players;
 This cycle repeats until one or both of the players no longer have cards in their deck. That point is when a player bleeds to death.
 
 If anything up to this point seems confusing, it's okay, we'll have a detailed game example later on.
+
+### Face Cards
+
+Sometimes you have to play dirty in a knife fight; anything to get ahead. Of course, that won't always work out for you. In this game, the face cards play a role as *manuevers*.
+
+#### Parry
+
+The simplest way to avoid getting hit is to stop the opponent's strike. When the **Jack** card is played, the opponent's play is nullified. Both cards are discarded.
+
+#### Field Dressing
+
+When you're bleeding heavily, it seems like a good idea to attempt to stop the it. Of course, you're in a knife fight, so you're probably going to just get cut again anyways. When you play a **Queen**, you swap the opponent's card for any card in your damage pile.
+
+#### Feint
+
+If you don't know what a feint is, a feint is a false attack, meant to trick your opponent into reacting, so that you can attack them. When you play a **King**, both players flip their cards at the same time like usual, but right after, you play another card of your choice from your hand.
