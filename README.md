@@ -51,3 +51,110 @@ When you're bleeding heavily, it seems like a good idea to attempt to stop the i
 #### Feint
 
 If you don't know what a feint is, a feint is a false attack, meant to trick your opponent into reacting, so that you can attack them. When you play a **King**, both players flip their cards at the same time like usual, but right after, you play another card of your choice from your hand.
+
+##  Example
+
+Let's say that [Leon][2] and [Krauser][2] are having a knife fight. They divide the deck in half, and set up the game.
+
+|       Info       | Leon | Krauser |
+|:-----------------|:----:|:----:|
+| Cards in Deck    |  24  |  24  |
+| Cards in Discard |   0  |   0  |
+| Cards in Damage  |   0  |   0  |
+| Sum of Damage    |   0  |   0  |
+| Bleed Amount     |   0  |   0  |
+
+In the first round, Krauser plays an Ace, and Leon plays a 6. This means that *Krauser* won the round, and Leon adds the ace to his damage pile. Both players draw to complete their hands, and Leon moves one card from his deck to the discard, because of his bleed value.
+
+|       Info       | Leon | Krauser |
+|:-----------------|:----:|:----:|
+| Cards in Deck    |  22  |  23  |
+| Cards in Discard |   2  |   0  |
+| Cards in Damage  |   1  |   0  |
+| Sum of Damage    |   1  |   0  |
+| Bleed Amount     |   1  |   0  |
+
+In the second round, Krauser plays a 6, while Leon plays a jack. Since jack is a parry, both cards are discarded, and neither player wins this round. They draw, and Leon bleeds.
+
+|       Info       | Leon | Krauser |
+|:-----------------|:----:|:----:|
+| Cards in Deck    |  20  |  22  |
+| Cards in Discard |   4  |   1  |
+| Cards in Damage  |   1  |   0  |
+| Sum of Damage    |   1  |   0  |
+| Bleed Amount     |   1  |   0  |
+
+In the third round, Krauser plays king, while Leon plays an 8. They both reveal thir cards, and Krauser can play a second card because of his feint; an Ace. Since an Ace is lower than 8, Krauser wins another round. Both players draw, although *Krauser draws 2 cards* to regain his hand of 3, and Leon bleeds.
+
+|       Info       | Leon   | Krauser |
+|:-----------------|:------:|:----:|
+| Cards in Deck    |  18    |  20  |
+| Cards in Discard |   6    |   2  |
+| Cards in Damage  |   1 1  |   0  |
+| Sum of Damage    |   2    |   0  |
+| Bleed Amount     |   1    |   0  |
+
+In the fourth round, Krauser plays a 9, and Leon an 8. Leon narrowly wins, and Krauser puts the 8 in his damage pile. Both players draw, but now both bleed.
+
+|       Info       | Leon   | Krauser |
+|:-----------------|:------:|:----:|
+| Cards in Deck    |  16    |  16  |
+| Cards in Discard |   7    |   3  |
+| Cards in Damage  |   1 1  |   8  |
+| Sum of Damage    |   2    |   8  |
+| Bleed Amount     |   1    |   3  |
+
+In the fifth round, Krauser plays a Queen, while Leon plays an Ace. This is a very good move for Krauser, as he now switches out the 8 in his damage pile for Leon's ace. The 8 is discarded, both players draw and bleed.
+
+|       Info       | Leon   | Krauser |
+|:-----------------|:------:|:----:|
+| Cards in Deck    |  14    |  14  |
+| Cards in Discard |   9    |   4  |
+| Cards in Damage  |   1 1  |   1  |
+| Sum of Damage    |   2    |   1  |
+| Bleed Amount     |   1    |   1  |
+
+In the sixth round, Krauser plays a 3, and Leon plays an Ace. Leon wins this round, and the regular cycle repeats.
+
+|       Info       | Leon   | Krauser   |
+|:-----------------|:------:|:------:|
+| Cards in Deck    |  12    |  12    |
+| Cards in Discard |  11    |   6    |
+| Cards in Damage  |   1 1  |   1 1  |
+| Sum of Damage    |   2    |   2    |
+| Bleed Amount     |   1    |   1    |
+
+In the seventh round, Krauser plays a 4, while Leon plays his Joker. With that, Krauser's 4 is reflected back at him, building his damage pile. The cycle repeats.
+
+|       Info       | Leon   | Krauser   |
+|:-----------------|:------:|:------:|
+| Cards in Deck    |  10    |  10    |
+| Cards in Discard |  13    |   8    |
+| Cards in Damage  |   1 1  |   1 1 4  |
+| Sum of Damage    |   2    |   6    |
+| Bleed Amount     |   1    |   2    |
+
+In the eighth round, Krauser plays another Queen, trying to heal himself again. However, Leon plays a 10, and Krauser switches it with his 4. Once again, the game cycles.
+
+|       Info       | Leon   | Krauser   |
+|:-----------------|:------:|:------:|
+| Cards in Deck    |  8    |  4    |
+| Cards in Discard |  15    |   13    |
+| Cards in Damage  |   1 1  |   1 1 10  |
+| Sum of Damage    |   2    |   12    |
+| Bleed Amount     |   1    |   4    |
+
+The game is coming down to the wire. In the ninth round, Krauser plays his Joker, trying to deal fatal damage to Leon. Unfortunately, Leon played a jack, nullifying the Joker's effect.
+
+|       Info       | Leon   | Krauser   |
+|:-----------------|:------:|:------:|
+| Cards in Deck    |  6    |  0    |
+| Cards in Discard |  17    |   17    |
+| Cards in Damage  |   1 1  |   1 1 10  |
+| Sum of Damage    |   2    |   12    |
+| Bleed Amount     |   1    |   4    |
+
+Krauser has run out of cards in his deck. This means that Leon wins, since he is still standing. Of course, he'll bleed out in a little while, but the person who dies the least wins.
+
+[1]: http://img2.wikia.nocookie.net/__cb20120506093156/residentevil/images/1/1f/Leon-Scott-Kennedy-leon-kennedy-3684051-225-258.jpg
+[2]: http://www.pixidols.com/public/idols/.Jack-Krauser-resident-evil_m.jpg
