@@ -27,8 +27,10 @@ Knife Fight is played in a series of rounds, during which players;
     +   The person with the **lower** numerical card beats the other player.
     +   The Joker and face cards have special abilities. We'll talk about them in the next section.
 2.  Apply damage cards to their corresponding damage piles
-    +   The player that has the card with the lower value than the other player's card puts their card in their opponent's damage pile.
-3.  Draw cards from their decks to regain their hands of 3
+// REVISE!
+    +   The player's card with the lower value than the other wins the round. This winning card is then put into the opponent's damage pile.
+        +   If both cards are the same and are numeric cards, the damage is applied to both players.
+3.  Draw cards until they have three cards in their hands
     +   **IMPORTANT**: Always remember to replenish your hand BEFORE you bleed. It can be easy to forget.
 4.  "Bleed" by discarding cards from their decks based on the sum of their individual damage piles
     +   Both players find the sum of the cards in their damage piles, divide that value by 3, then round up. The resulting integer is the number of cards that the players remove from their deck.
@@ -47,7 +49,7 @@ The simplest way to avoid getting hit is to stop the opponent's strike. When the
 
 #### Field Dressing
 
-When you're bleeding heavily, it seems like a good idea to attempt to stop the it. Of course, you're in a knife fight, so you're probably going to just get cut again anyways. When you play a **Queen**, you swap the opponent's card for any card in your damage pile.
+When you're bleeding heavily, it seems like a good idea to attempt to stop the it. Of course, you're in a knife fight, so you're probably going to just get cut again anyways. When you play a **Queen**, you swap the opponent's card for any card in your damage pile. The Queen and the swapped card are then discarded.
 
 #### Feint
 
