@@ -18,13 +18,20 @@ It's that simple to set up. Of course, it wouldn't be a game without rules of so
 
 ## Rules
 
-### Basic Turn Progression
+### Turn Progression
 
 Knife Fight is played in a series of rounds, during which players;
 
 1.  Play cards and compare their effects
+    +   The person with the **lower** numerical card beats the other player.
+    +   The Joker and face cards have special abilities. We'll talk about them in the next section.
 2.  Apply damage cards to their corresponding damage piles
+    +   The player that has the card with the lower value than the other player's card puts their card in their opponent's damage pile.
 3.  Draw cards from their decks to regain their hands of 3
+    +   **IMPORTANT**: Always remember to replenish your hand BEFORE you bleed. It can be easy to forget.
 4.  "Bleed" by discarding cards from their decks based on the sum of their individual damage piles
+    +   Both players find the sum of the cards in their damage piles, divide that value by 3, then round up. The resulting integer is the number of cards that the players remove from their deck.
 
-This cycle repeats until one or both of the players no longer have cards in their deck. That point is bleeding to death.
+This cycle repeats until one or both of the players no longer have cards in their deck. That point is when a player bleeds to death.
+
+If anything up to this point seems confusing, it's okay, we'll have a detailed game example later on.
