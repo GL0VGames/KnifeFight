@@ -1,10 +1,10 @@
-# Knife Fight: The Card Game
+# KNIFE FIGHT: THE CARD GAME
 ### The thrill you've always been too afraid to experience yourself
 Have you ever challenged somebody to a knife fight, one-on-one? Yes? Well, how did that go for you? Not well, probably. Of course, you seem to have made it out alive, but what does that really mean? You could've bled to death, unless you're just *that good*, and now you've probably got scars. Kinda sucks, if you're an average guy.
 
 If you said no, but you've always dreamed of cutting your enemies apart with a combat knife, you've come to the right place. Now, with this game, **you can figuratively dice your enemies by challenging them to a duel using nothing but a single, regular deck of cards.** A single game shouldn't take you any more than 10 minutes top, and you can feel the joy of your friends or nemeses bleeding to death with no real threat of personal injury or lawsuit.
 
-## Setup
+## SETUP
 
 As I said earlier, all you need is **a single deck of 54 cards, jokers included.** But you're going to need to do a bit of setup, first.
 
@@ -16,9 +16,9 @@ As I said earlier, all you need is **a single deck of 54 cards, jokers included.
 
 It's that simple to set up. Of course, it wouldn't be a game without rules of some form.
 
-## Rules
+## RULES
 
-### Turn Progression
+### TURN PROGRESSION
 
 Knife Fight is played in a series of rounds, during which players;
 
@@ -36,7 +36,7 @@ This cycle repeats until one or both of the players no longer have cards in thei
 
 If anything up to this point seems confusing, it's okay, we'll have a detailed game example later on.
 
-### Face Cards
+### FACE CARDS
 
 Sometimes you have to play dirty in a knife fight; anything to get ahead. Of course, that won't always work out for you. In this game, the face cards play a role as *manuevers*.
 
