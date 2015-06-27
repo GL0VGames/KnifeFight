@@ -8,11 +8,11 @@ If you said no, but you've always dreamed of cutting your enemies apart with a c
 
 As I said earlier, all you need is **a single deck of 56 cards, jokers included.** But you're going to need to do a bit of setup, first.
 
-1. Split the deck into two halves, black and red.
-    + *Suits are ignored in this game, so don't worry about them.*
-2. Shuffle both halves separately, and give one to either player.
-3. Both players draw 3 cards from the top of their deck. These are your hands.
-4. Place the decks off to the side, where there is enough room for adjacent discard piles.
+1.  Split the deck into two halves, black and red.
+    +   *Suits are ignored in this game, so don't worry about them.*
+2.  Shuffle both halves separately, and give one to either player.
+3.  Both players draw 3 cards from the top of their deck. These are your hands.
+4.  Place the decks off to the side, where there is enough room for adjacent discard piles.
 
 It's that simple to set up. Of course, it wouldn't be a game without rules of some form.
 
@@ -21,9 +21,10 @@ It's that simple to set up. Of course, it wouldn't be a game without rules of so
 ### Basic Turn Progression
 
 Knife Fight is played in a series of rounds, during which players;
-1. Play cards and compare their effects
-2. Apply damage cards to their corresponding damage piles
-3. Draw cards from their decks to regain their hands of 3
-4. "Bleed" by discarding cards from their decks based on the sum of their individual damage piles
+
+1.  Play cards and compare their effects
+2.  Apply damage cards to their corresponding damage piles
+3.  Draw cards from their decks to regain their hands of 3
+4.  "Bleed" by discarding cards from their decks based on the sum of their individual damage piles
 
 This cycle repeats until one or both of the players no longer have cards in their deck. That point is bleeding to death.
