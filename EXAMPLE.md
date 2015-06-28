@@ -1,6 +1,8 @@
-##  Example
+#  Example
 
 Let's say that [Leon][1] and [Krauser][2] are having a standard knife fight. They divide the deck in half, and set up the game.
+
+### Before the game
 
 |       Info       | [Leon][1] | [Krauser][2] |
 |:-----------------|:----:|:----:|
@@ -12,6 +14,8 @@ Let's say that [Leon][1] and [Krauser][2] are having a standard knife fight. The
 
 In the first round, [Krauser][2] plays an Ace, and [Leon][1] plays a 6. This means that *[Krauser][2]* won the round, and [Leon][1] adds the ace to his damage pile. Both players draw to complete their hands, and [Leon][1] moves one card from his deck to the discard, because of his bleed value.
 
+### After Round 1
+
 |       Info       | [Leon][1] | [Krauser][2] |
 |:-----------------|:----:|:----:|
 | Cards in Deck    |  22  |  23  |
@@ -21,6 +25,8 @@ In the first round, [Krauser][2] plays an Ace, and [Leon][1] plays a 6. This mea
 | Bleed Amount     |   1  |   0  |
 
 In the second round, [Krauser][2] plays a 6, while [Leon][1] plays a jack. Since jack is a parry, both cards are discarded, and neither player wins this round. They draw, and [Leon][1] bleeds.
+
+### After Round 2
 
 |       Info       | [Leon][1] | [Krauser][2] |
 |:-----------------|:----:|:----:|
@@ -32,6 +38,8 @@ In the second round, [Krauser][2] plays a 6, while [Leon][1] plays a jack. Since
 
 In the third round, [Krauser][2] plays king, while [Leon][1] plays an 8. They both reveal thir cards, and [Krauser][2] can play a second card because of his feint; an Ace. Since an Ace is lower than 8, [Krauser][2] wins another round. Both players draw, although *[Krauser][2] draws 2 cards* to regain his hand of 3, and [Leon][1] bleeds.
 
+### After Round 3
+
 |       Info       | [Leon][1]   | [Krauser][2] |
 |:-----------------|:------:|:----:|
 | Cards in Deck    |  18    |  20  |
@@ -41,6 +49,8 @@ In the third round, [Krauser][2] plays king, while [Leon][1] plays an 8. They bo
 | Bleed Amount     |   1    |   0  |
 
 In the fourth round, [Krauser][2] plays a 9, and [Leon][1] an 8. [Leon][1] narrowly wins, and [Krauser][2] puts the 8 in his damage pile. Both players draw, but now both bleed.
+
+### After Round 4
 
 |       Info       | [Leon][1]   | [Krauser][2] |
 |:-----------------|:------:|:----:|
@@ -52,6 +62,8 @@ In the fourth round, [Krauser][2] plays a 9, and [Leon][1] an 8. [Leon][1] narro
 
 In the fifth round, [Krauser][2] plays a Queen, while [Leon][1] plays an Ace. This is a very good move for [Krauser][2], as he now switches out the 8 in his damage pile for [Leon][1]'s ace. The 8 is discarded, both players draw and bleed.
 
+After Round 5
+
 |       Info       | [Leon][1]   | [Krauser][2] |
 |:-----------------|:------:|:----:|
 | Cards in Deck    |  14    |  14  |
@@ -61,6 +73,8 @@ In the fifth round, [Krauser][2] plays a Queen, while [Leon][1] plays an Ace. Th
 | Bleed Amount     |   1    |   1  |
 
 In the sixth round, [Krauser][2] plays a 3, and [Leon][1] plays an Ace. [Leon][1] wins this round, and the regular cycle repeats.
+
+### After Round 6
 
 |       Info       | [Leon][1]   | [Krauser][2]   |
 |:-----------------|:------:|:------:|
@@ -72,6 +86,8 @@ In the sixth round, [Krauser][2] plays a 3, and [Leon][1] plays an Ace. [Leon][1
 
 In the seventh round, [Krauser][2] plays a 4, while [Leon][1] plays his Joker. With that, [Krauser][2]'s 4 is reflected back at him, building his damage pile. The cycle repeats.
 
+### After Round 7
+
 |       Info       | [Leon][1]   | [Krauser][2]   |
 |:-----------------|:------:|:------:|
 | Cards in Deck    |  10    |  10    |
@@ -79,6 +95,8 @@ In the seventh round, [Krauser][2] plays a 4, while [Leon][1] plays his Joker. W
 | Cards in Damage  |   1 1  |   1 1 4  |
 | Sum of Damage    |   2    |   6    |
 | Bleed Amount     |   1    |   2    |
+
+### After Round 8
 
 In the eighth round, [Krauser][2] plays another Queen, trying to heal himself again. However, [Leon][1] plays a 10, and [Krauser][2] switches it with his 4. Once again, the game cycles.
 
@@ -91,6 +109,8 @@ In the eighth round, [Krauser][2] plays another Queen, trying to heal himself ag
 | Bleed Amount     |   1    |   4    |
 
 The game is coming down to the wire. In the ninth round, [Krauser][2] plays his Joker, trying to deal fatal damage to [Leon][1]. Unfortunately, [Leon][1] played a jack, nullifying the Joker's effect.
+
+### After Round 9
 
 |       Info       | [Leon][1]   | [Krauser][2]   |
 |:-----------------|:------:|:------:|
