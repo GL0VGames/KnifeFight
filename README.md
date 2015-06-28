@@ -25,10 +25,10 @@ Knife Fight is played in a series of rounds, during which players;
 
 1.  Play cards and compare their effects
     +   The person with the **lower** numerical card beats the other player.
-    +   The Joker and face cards have special abilities. We'll talk about them in the next section.
-2.  Apply damage cards to their corresponding damage piles
-// REVISE!
-    +   The player's card with the lower value than the other wins the round. This winning card is then put into the opponent's damage pile.
+        +   The Joker and face cards have special abilities. We'll talk about them in the next section.
+        +   Aces are worth 1 in this game, and have the lowest value.
+2.  Apply damage cards to their corresponding damage piles.
+    +   The player with the lowest card wins the round. This card is then added to the opponent's damage pile.
         +   If both cards are the same and are numeric cards, the damage is applied to both players.
 3.  Draw cards until they have three cards in their hands
     +   **IMPORTANT**: Always remember to replenish your hand BEFORE you bleed. It can be easy to forget.
@@ -54,6 +54,10 @@ When you're bleeding heavily, it seems like a good idea to attempt to stop the i
 #### Feint
 
 If you don't know what a feint is, a feint is a false attack, meant to trick your opponent into reacting, so that you can attack them. When you play a **King**, both players flip their cards at the same time like usual, but right after, you play another card of your choice from your hand.
+
+#### Reflect
+
+Adrenaline is powerful stuff, and often allows you to do things you wouldn't normally be able to accomplish. In combat, it can be life saving, but you can't rely on it. When you play your one *Joker*, overpower your opponent and reflect their attack back at them. Of course, they might not play an attack, so you need to be careful and not waste your card.
 
 ##  Example
 
