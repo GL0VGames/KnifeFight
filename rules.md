@@ -1,9 +1,4 @@
-# KNIFE FIGHT: THE CARD GAME
-
-### The thrill you've always been too afraid to experience yourself
-Have you ever challenged somebody to a knife fight, one-on-one? Yes? Well, how did that go for you? Not well, probably. Of course, you seem to have made it out alive, but what does that really mean? You could've bled to death, unless you're just *that good*, and now you've probably got scars. Kinda sucks, if you're an average guy.
-
-If you said no, but you've always dreamed of cutting your enemies apart with a combat knife, you've come to the right place. Now, with this game, **you can figuratively dice your enemies by challenging them to a duel using nothing but a single, regular deck of cards.** A single game shouldn't take you any more than 10 minutes top, and you can feel the joy of your friends or nemeses bleeding to death with no real threat of personal injury or lawsuit.
+# RULES
 
 ## SETUP
 
@@ -17,9 +12,7 @@ As I said earlier, all you need is **a single deck of 54 cards, jokers included.
 
 It's that simple to set up. Of course, it wouldn't be a game without rules of some form.
 
-## RULES
-
-### TURN PROGRESSION
+## TURN PROGRESSION
 
 Knife Fight is played in a series of rounds, during which players;
 
@@ -39,22 +32,22 @@ This cycle repeats until one or both of the players no longer have cards in thei
 
 If anything up to this point seems confusing, it's okay, we'll have a detailed game example later on.
 
-### FACE CARDS
+## FACE CARDS
 
 Sometimes you have to play dirty in a knife fight; anything to get ahead. Of course, that won't always work out for you. In this game, the face cards play a role as *manuevers*.
 
-#### Parry
+### Parry (Jack)
 
 The simplest way to avoid getting hit is to stop the opponent's strike. When the **Jack** card is played, the opponent's play is nullified. Both cards are discarded.
 
-#### Field Dressing
+### Field Dressing (Queen)
 
 When you're bleeding heavily, it seems like a good idea to attempt to stop the it. Of course, you're in a knife fight, so you're probably going to just get cut again anyways. When you play a **Queen**, you swap the opponent's card for any card in your damage pile. The Queen and the swapped card are then discarded.
 
-#### Feint
+### Feint (King)
 
 If you don't know what a feint is, a feint is a false attack, meant to trick your opponent into reacting, so that you can attack them. When you play a **King**, both players flip their cards at the same time like usual, but right after, you play another card of your choice from your hand.
 
-#### Reflect
+### Reflect (Joker)
 
 Adrenaline is powerful stuff, and often allows you to do things you wouldn't normally be able to accomplish. In combat, it can be life saving, but you can't rely on it. When you play your one *Joker*, overpower your opponent and reflect their attack back at them. Of course, they might not play an attack, so you need to be careful and not waste your card.
